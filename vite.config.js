@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   preview: {
     allowedHosts: [
-      'emojipedia-react-5od4.onrender.com'
+      'todo-app-react-5w4c.onrender.com'
     ],
   },
 })
