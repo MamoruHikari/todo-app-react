@@ -8,7 +8,7 @@ Note: It may take up to **60 seconds to load** as the app is hosted on Render's 
 
 ### Description
 
-**To-Do List App** is a React-based project developed to practice state management, event handling, and rendering dynamic content in React. The app allows users to add items to a to-do list, toggle their completion status, and visually strike through completed tasks. By using `useState` for managing item input and the list of tasks, I practiced working with React’s component structure, passing props, and dynamically rendering content.
+**To-Do List App** is a React-based project developed to practice state management, event handling, and rendering dynamic content in React. The app allows users to add items to a to-do list, toggle their completion status, and visually strike through completed tasks. By using `useState` for managing input and the list of tasks, I practiced working with React’s component structure, passing props, and dynamically rendering content.
 
 The app consists of three main components: the `App` component to manage state and handle logic, the `Input` component for entering new tasks, and the `Item` component to display and toggle the completion of individual tasks. This project helped me understand how to handle user input, update state, and use conditional rendering for interactivity.
 
