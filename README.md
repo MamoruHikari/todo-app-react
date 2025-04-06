@@ -46,7 +46,7 @@ To get started with this project locally, clone the repository and follow these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app-react.git
+   git clone https://github.com/username/todo-app-react.git
    ```
 
 2. Navigate into the project directory:
